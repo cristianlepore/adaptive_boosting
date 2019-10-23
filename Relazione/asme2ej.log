@@ -1,0 +1,659 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.7)  25 DEC 2017 15:35
+entering extended mode
+**./asme2ej.tex
+(asme2ej.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+(asme2ej.cls
+
+LaTeX Warning: You have requested document class `asme2ej',
+               but the document class provides `asme2e'.
+
+Document Class: asme2e 2001/2/14 v2.0 Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptm.sty"
+Package: mathptm 2005/04/12 PSNFSS-v9.2a Times w/ Math (SPQR, WaS) 
+
+
+Package mathptm Warning: This package is to be regarded as obsolete.
+(mathptm)                See the PSNFSS documentation.
+
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 32.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 32.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 32.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 33.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 33.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 34.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 38.
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Twelve Point
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 301.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\tempbox=\box26
+\c@figure=\count85
+\c@table=\count86
+\@authcnt=\count87
+\@tmpcnt=\count88
+\bibindent=\dimen102
+\tempbox=\box27
+\minute=\count89
+\hour=\count90
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks16
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen114
+\extrarowheight=\dimen115
+\NC@list=\toks20
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count104
+\multirow@dima=\skip47
+\bigstrutjot=\dimen116
+) (asme2ej.aux
+
+LaTeX Warning: Label `table_ASME' multiply defined.
+
+)
+\openout1 = `asme2ej.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 54.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen117
+\scratchbox=\box30
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen118
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks22
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 56
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 56
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 56
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 56
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 56.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+
+Underfull \hbox (badness 10000) detected at line 56
+[]
+ []
+
+LaTeX Font Info:    Try loading font information for T1+phv on input line 56.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+Overfull \hbox (39.74762pt too wide) in paragraph at lines 56--56
+ [] 
+ []
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 60.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
+
+Underfull \hbox (badness 1297) in paragraph at lines 69--74
+[]\T1/ptm/m/n/12 Immaginiamo di far par-tire una cam-pagna
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 69--74
+\T1/ptm/m/n/12 volta chiar-ito il tar-get, ci sarà più sem-plice
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 69--74
+\T1/ptm/m/n/12 pi-ani-fi-care una cam-pagna basan-doci solo sui
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 69--74
+\T1/ptm/m/n/12 dati a dis-po-sizione. Volendo fare una teo-ria
+ []
+
+
+Underfull \vbox (badness 3724) has occurred while \output is active []
+
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 2460) in paragraph at lines 92--93
+\T1/ptm/m/n/12 Al fine di creare un clas-si-fi-ca-tore sofisti-cato
+ []
+
+<AdaBoost.png, id=11, 423.83344pt x 273.27094pt>
+File: AdaBoost.png Graphic file (type png)
+ <use AdaBoost.png>
+Package pdftex.def Info: AdaBoost.png used on input line 107.
+(pdftex.def)             Requested size: 267.01646pt x 172.16159pt.
+
+Overfull \hbox (25.63438pt too wide) in paragraph at lines 107--108
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 102--111
+\T1/ptm/m/n/12 ven-gono ripesate e l'algoritmo darà mag-gior
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 102--111
+\T1/ptm/m/n/12 che il suc-ces-sivo mod-ello sia più es-perto su
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 116--121
+\T1/ptm/m/n/12 costru-isce mod-elli in modo in-cre-men-tale che
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 116--121
+\T1/ptm/m/n/12 pos-sono es-sere visti come iper-pi-ani del tipo:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--121
+
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 116--121
+\T1/ptm/m/n/12 Significa che oltre a queste per-for-mance non
+ []
+
+[2 <./AdaBoost.png>]
+Underfull \hbox (badness 2922) in paragraph at lines 126--127
+[]\T1/ptm/m/n/12 Vogliamo trovare una cor-re-lazione per le
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 132--133
+\T1/ptm/m/n/12 Il dataset ad oggi conta 680 is-tanze con-trap-
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 137--138
+\T1/ptm/m/n/12 cias-cuno a rap-p-re-sentare un esame clin-ico ed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--164
+
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 155--164
+\T1/ptm/m/n/12 Come detto i tu-mori be-nigni hanno etichetta
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 155--164
+\T1/ptm/m/n/12 (65.5% vs 34.5%) sug-gerisce di im-ple-mentare
+ []
+
+[3] <CV_error.png, id=25, 356.0803pt x 273.27094pt>
+File: CV_error.png Graphic file (type png)
+ <use CV_error.png>
+Package pdftex.def Info: CV_error.png used on input line 193.
+(pdftex.def)             Requested size: 274.18268pt x 210.41925pt.
+
+Overfull \hbox (32.8006pt too wide) in paragraph at lines 193--194
+ [][] 
+ []
+
+[4 <./CV_error.png>]
+Underfull \hbox (badness 2600) in paragraph at lines 202--210
+\T1/ptm/m/n/12 l'entropia cal-co-lata come $\OMS/pzccm/m/n/12  \OML/ptmcm/m/it/
+12 p [][] p \OMS/pzccm/m/n/12   \OML/ptmcm/m/it/12 n [][] n$\T1/ptm/m/n/12 ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--210
+
+ []
+
+<Gain.png, id=31, 356.0803pt x 273.27094pt>
+File: Gain.png Graphic file (type png)
+ <use Gain.png>
+Package pdftex.def Info: Gain.png used on input line 237.
+(pdftex.def)             Requested size: 256.37762pt x 196.7549pt.
+
+Overfull \hbox (14.99554pt too wide) in paragraph at lines 237--238
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 234--246
+[]\T1/ptm/m/n/12 Ci chiedi-amo, come varia l'errore quando
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 234--246
+\T1/ptm/m/n/12 dis-in-ter-es-si-amoci per un at-timo del guadagno
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--246
+
+ []
+
+<Boosting_decisionStump.png, id=32, 356.0803pt x 273.27094pt>
+File: Boosting_decisionStump.png Graphic file (type png)
+
+<use Boosting_decisionStump.png>
+Package pdftex.def Info: Boosting_decisionStump.png used on input line 265.
+(pdftex.def)             Requested size: 270.61841pt x 207.68388pt.
+
+Overfull \hbox (29.23633pt too wide) in paragraph at lines 265--266
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 262--268
+\T1/ptm/m/n/12 versi de-ci-sion stumps con tec-niche di en-sem-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./Gain.png>]
+Underfull \hbox (badness 3769) in paragraph at lines 278--280
+\T1/ptm/m/n/12 detto nella sezione 4.1.1, al-beri con questa
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 278--280
+\T1/ptm/m/n/12 pro-fon-dità sono suf-fi-ci-enti per min-i-miz-zare il
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 278--280
+\T1/ptm/m/n/12 train-ing er-ror senza rischiare di cadere nella
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
+
+ []
+
+
+Overfull \hbox (2.03764pt too wide) in paragraph at lines 293--293
+ []\T1/ptm/b/n/12 Valore
+ []
+
+
+Overfull \hbox (4.02943pt too wide) in paragraph at lines 293--293
+ []\T1/ptm/b/n/12 attuale
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--321
+
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 316--321
+\T1/ptm/m/n/12 Abbiamo mag-gior ev-i-denza di questo fatto,
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 316--321
+\T1/ptm/m/n/12 cop-pia re-call/precision per ogni po-sizione del
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 316--321
+\T1/ptm/m/n/12 In-fatti la fun-zione (mono-tona de-cres-cente) tra
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 316--321
+\T1/ptm/m/n/12 ot-tenuti con al-beri di de-ci-sione quando non
+ []
+
+<Recall_Precision.png, id=37, 356.0803pt x 273.27094pt>
+File: Recall_Precision.png Graphic file (type png)
+
+<use Recall_Precision.png>
+Package pdftex.def Info: Recall_Precision.png used on input line 324.
+(pdftex.def)             Requested size: 284.86462pt x 218.61702pt.
+
+Overfull \hbox (43.48254pt too wide) in paragraph at lines 324--325
+ [][] 
+ []
+
+<Percettrone.png, id=38, 356.0803pt x 245.41687pt>
+File: Percettrone.png Graphic file (type png)
+ <use Percettrone.png>
+Package pdftex.def Info: Percettrone.png used on input line 339.
+(pdftex.def)             Requested size: 270.61841pt x 186.515pt.
+
+Overfull \hbox (29.23633pt too wide) in paragraph at lines 339--340
+ [][] 
+ []
+
+[6 <./Boosting_decisionStump.png>]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [7 <./Recall_Precision.png> <./Percettrone.png>]
+Underfull \hbox (badness 2073) in paragraph at lines 379--401
+[]\T1/ptm/m/n/12 Come ul-tima anal-isi, ab-bi-amo boost-ato il
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 404--407
+\T1/ptm/m/n/12 In par-ti-co-lare ab-bi-amo di-mostrato su questo
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 412--413
+[]\T1/ptm/m/n/12 Tutti i files del pro-getto sono con-tenuti
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 412--413
+\T1/ptm/m/n/12 all'interno della cartella de-nom-i-nata: \T1/ptm/m/it/12 "Pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+[]\T1/ptm/m/it/12 Percettrone\T1/ptm/m/n/12 : con-tiene gli script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+\T1/ptm/m/n/12 dell'implementazione dell'algoritmo e
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+[9
+
+] (asme2ej.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2800 strings out of 493323
+ 35993 string characters out of 3139034
+ 108288 words of memory out of 3000000
+ 6257 multiletter control sequences out of 15000+200000
+ 51934 words of font info for 79 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,11n,25p,1153b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic
+/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on asme2ej.pdf (9 pages, 207704 bytes).
+PDF statistics:
+ 94 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
